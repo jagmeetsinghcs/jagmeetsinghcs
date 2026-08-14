@@ -1,7 +1,7 @@
 # Hello, I'm JAGMEET
 <a href="https://www.linkedin.com/in/jagmeet-singh-brar-cs/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Objective
+## About Me
 
 I am a dedicated SOC Analyst driven by an endless curiosity for how complex systems work—and how to actively defend them. With a Post-Graduation in Cyber Security and hands-on experience in 24/7 SIEM monitoring, I treat the rapidly evolving threat landscape as my daily classroom.  
 
