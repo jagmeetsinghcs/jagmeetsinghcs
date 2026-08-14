@@ -7,7 +7,15 @@ Currently, I specialize in real-time monitoring and incident response using Splu
 
 ## Objective
 
-I’ve developed correlation rules using the MITRE ATT&CK framework to reduce false positives and participated in deep-dive forensic investigations into high-severity incidents like lateral movement and Ransomware. I am looking to bring my technical expertise and international experience to your team, and I am available to start immediately.
+I am a dedicated SOC Analyst driven by an endless curiosity for how complex systems work—and how to actively defend them. With a Post-Graduation in Cyber Security and hands-on experience in 24/7 SIEM monitoring, I treat the rapidly evolving threat landscape as my daily classroom.  
+
+What I Do: Triage security alerts, trace lateral movement, and automate incident response pipelines using my core stack of Splunk, CrowdStrike Falcon, and Cortex XSOAR.  
+
+How I Learn: I actively rank in the top 7% on the TryHackMe platform and continuously test offensive tactics in a local lab using Kali Linux, Nmap, and Metasploit. This hands-on approach helps me understand adversary behavior from the inside out and map it to the MITRE ATT&CK framework.  
+
+Staying Sharp: I keep a close pulse on emerging vulnerabilities and modern threat actor tactics by regularly following The Hacker News, BleepingComputer, and the Darknet Diaries podcast.
+
+My Goal: To tackle complex technical challenges, optimize security workflows to practically reduce MTTR, and continuously deepen my expertise in active threat hunting.  
 
 ## Skills
 
